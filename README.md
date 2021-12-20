@@ -15,8 +15,7 @@ I'm an Electrical Engineering student at the University of Toronto in Canada!
 - UX/UI in minimalistic software design
 
 🤔 Feel free to reach out to me on Linkedin or by email: 
-> - chengdylan02@gmail.com 
-> - linkedin.com/in/dylnchng
+> chengdylan02@gmail.com | linkedin.com/in/dylnchng
 
 <!--
 **dylncheng/dylncheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

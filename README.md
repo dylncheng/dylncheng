@@ -14,11 +14,6 @@ I'm currently an Electrical Engineering student at the University of Toronto in 
 - A recipe API
 <br>
 
-🌱 My Interests:
-- Web development
-- UX/UI in minimalistic software design
-<br>
-
 🤔 Feel free to reach out to me on Linkedin or by email: 
 > chengdylan02@gmail.com | www.linkedin.com/in/dylnchng
 

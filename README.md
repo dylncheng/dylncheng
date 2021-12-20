@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dylan
+### Hi there, my name is Dylan 👋
 
 I'm an Electrical Engineering student at the University of Toronto in Canada!
 

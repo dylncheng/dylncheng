@@ -5,14 +5,17 @@ I'm an Electrical Engineering student at the University of Toronto in Canada!
 💬 Here are some things about me:
 - I enjoy working on web development and learning about new technology to integrate into my projects
 
+
 🔭 Here are some projects I've worked on: <br>
 - A Task App for NewHacks 2021
 - A minimalistic weather app
 - A recipe API
 
+
 🌱 My Interests:
 - Web development
 - UX/UI in minimalistic software design
+
 
 🤔 Feel free to reach out to me on Linkedin or by email: 
 > chengdylan02@gmail.com | www.linkedin.com/in/dylnchng

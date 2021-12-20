@@ -2,6 +2,7 @@
 
 I'm currently an Electrical Engineering student at the University of Toronto in Canada!
 <br>
+<br>
 
 💬 Here are some things about me:
 - I enjoy working on web development and learning about new technology to integrate into my projects

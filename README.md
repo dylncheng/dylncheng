@@ -4,7 +4,6 @@ I'm an Electrical Engineering student at the University of Toronto in Canada!
 
 💬 Here are some things about me:
 - I enjoy working on web development and learning about new technology to integrate into my projects
-- 
 
 🔭 Here are some projects I've worked on: <br>
 - A Task App for NewHacks 2021
@@ -15,6 +14,9 @@ I'm an Electrical Engineering student at the University of Toronto in Canada!
 - Web development
 - UX/UI in minimalistic software design
 
+🤔 Feel free to reach out to me on Linkedin or by email: 
+>  mailto:chengdylan02@gmail.com 
+>  linkedin.com/in/dylnchng
 
 <!--
 **dylncheng/dylncheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

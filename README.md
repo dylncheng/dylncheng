@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Dylan
+
+💬 I'm an Electrical Engineering student at the University of Toronto in Canada!
+
+🔭 Here are some things I've worked on: <br>
+- New 
+
 
 <!--
 **dylncheng/dylncheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

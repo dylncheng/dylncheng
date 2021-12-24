@@ -14,7 +14,7 @@ I'm currently an Electrical Engineering student at the University of Toronto in 
 - A recipe API
 <br>
 
-🌱 I'm currently working on a personal portfolio website!
+<!-- 🌱 I'm currently working on...... ??? -->
 <br>
 
 🤔 Feel free to reach out to me on Linkedin or by email: 

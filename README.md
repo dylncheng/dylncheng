@@ -12,6 +12,7 @@ I'm currently an Electrical Engineering student at the University of Toronto in 
 - A Task App for NewHacks 2021
 - A minimalistic weather app
 - A recipe API
+- A portfolio website
 <br>
 
 <!-- 🌱 I'm currently working on...... ??? -->

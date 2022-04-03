@@ -1,6 +1,6 @@
 ### Hi there, I'm Dylan 👋
 
-I'm currently an Electrical Engineering student at the University of Toronto in Canada!
+I'm currently a Computer Engineering student at the University of Toronto in Canada!
 <br>
 <br>
 

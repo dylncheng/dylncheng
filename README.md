@@ -5,20 +5,21 @@ I'm currently an Electrical Engineering student at the University of Toronto in 
 <br>
 
 💬 Here are some things about me:
-- I enjoy working on web development and learning about new technology to integrate into my projects
+- I enjoy working on web development
+- I like to play piano, cello, and the alto saxophone in my free time!
 <br>
 
-🔭 Here are some projects I've worked on: <br>
+🔭 Here are some projects I've worked on this year: <br>
 - A Task App for NewHacks 2021
 - A minimalistic weather app
 - A recipe API
-- A portfolio website
 <br>
 
-<!-- 🌱 I'm currently working on...... ??? -->
+🌱 I'm currently working on......
+- Algorithm visualisation on a map with GTK in C++
 <br>
 
-🤔 Feel free to reach out to me on Linkedin or by email: 
+📫 Feel free to reach out to me on Linkedin or by email: 
 > chengdylan02@gmail.com | www.linkedin.com/in/dylnchng
 
 <!--

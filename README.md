@@ -13,6 +13,7 @@ I'm currently a Computer Engineering student at the University of Toronto in Can
 - A mock Instagram app
 - Sorting algorithm visualization using React
 - Student-oriented GIS using GTK in C++
+- 4x4 Silverman Chess using assembly programming in C
 - A Task App for NewHacks 2021
 - A minimalistic weather app
 - A recipe API

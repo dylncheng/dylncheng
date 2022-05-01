@@ -20,7 +20,7 @@ I'm currently a Computer Engineering student at the University of Toronto in Can
 <br>
 
 🌱 I'm currently working on......
-- Final exams + an updated portfolio website
+- An updated portfolio website
 <br>
 
 📫 Feel free to reach out to me on Linkedin or by email: 

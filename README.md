@@ -11,6 +11,7 @@ I'm currently a Computer Engineering student at the University of Toronto in Can
 
 🔭 Here are some projects I've worked on this year: <br>
 - A mock Instagram app
+- An updated portfolio website
 - Sorting algorithm visualization using React
 - Student-oriented GIS using GTK in C++
 - 4x4 Silverman Chess using assembly programming in C
@@ -20,7 +21,7 @@ I'm currently a Computer Engineering student at the University of Toronto in Can
 <br>
 
 🌱 I'm currently working on......
-- An updated portfolio website
+- a Next.js project using Square APIs
 <br>
 
 📫 Feel free to reach out to me on Linkedin or by email: 

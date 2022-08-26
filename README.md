@@ -16,8 +16,6 @@ I'm currently a Computer Engineering student at the University of Toronto in Can
 - Student-oriented GIS using GTK in C++
 - 4x4 Silverman Chess using assembly programming in C
 - A Task App for NewHacks 2021
-- A minimalistic weather app
-- A recipe API
 <br>
 
 🌱 I'm currently working on......
@@ -25,7 +23,7 @@ I'm currently a Computer Engineering student at the University of Toronto in Can
 <br>
 
 📫 Feel free to reach out to me on Linkedin or by email: 
-> dylan.cheng@mail.utoronto.ca| www.linkedin.com/in/dylnchng
+> dylan.cheng@mail.utoronto.ca | www.linkedin.com/in/dylnchng
 
 <!--
 **dylncheng/dylncheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +38,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

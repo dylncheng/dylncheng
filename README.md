@@ -1,11 +1,11 @@
 ### Hi there, I'm Dylan 👋
 
-I'm currently a Computer Engineering student at the University of Toronto, and a Software Engineering Intern at Zynga.
+I'm currently a Computer Engineering student at the University of Toronto.
 <br>
 <br>
 
 💬 Here are some things about me:
-- I enjoy working on the latest technologies in web development and distributed systems programming
+- I enjoy working with the latest technologies in full-stack development and cloud
 - I like to cook, play the piano and cello, and I'm occasionally looking around for a tennis court to play on
 <br>
 <!--

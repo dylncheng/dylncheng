@@ -1,7 +1,5 @@
 ### Hi there, I'm Dylan 👋
 
-![Coding (2)](https://github.com/user-attachments/assets/febd1f06-1afe-4f0d-8a67-fef16e993988)
-
 
 
 I'm currently a Computer Engineering student at the University of Toronto.

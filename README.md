@@ -1,6 +1,6 @@
 ### Hi there, I'm Dylan 👋
 
-![image](https://github.com/user-attachments/assets/80f22117-0af2-4fe0-808d-ed7572612bcf)
+[![Alt Text](https://github.com/user-attachments/assets/80f22117-0af2-4fe0-808d-ed7572612bcf)](https://tenor.com/search/coding-gifs)
 
 
 I'm currently a Computer Engineering student at the University of Toronto.

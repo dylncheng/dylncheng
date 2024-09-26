@@ -8,7 +8,7 @@ I'm a Computer Engineering student specializing in software at the University of
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="850" />
 
 <h3>Here are some things about me:</h3>
-<li>I'm a full-stack developer and passionate backend development and cloud architecture</li>
+<li>I'm a full-stack developer and passionate about backend development and cloud architecture</li>
 <li>In my free time I enjoy making coffee, running, playing the cello, and learning languages!</li>
 
 <h3> Let's Connect! </h3>
